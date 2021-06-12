@@ -1,9 +1,10 @@
 import ReactDOM from 'react-dom';
+import UserSearch from 'state/UserSearch';
 
 const App = () => {
   return (
     <div>
-      <h1>Hi there!</h1>
+      <UserSearch />
     </div>
   );
 };

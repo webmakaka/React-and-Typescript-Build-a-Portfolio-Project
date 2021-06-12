@@ -14,6 +14,14 @@
 
 ![Application](/img/pic-part01-p01.png?raw=true)
 
+<br/>
+
+## 02 Types Around Props and State
+
+<br/>
+
+![Application](/img/pic-part02-p01.png?raw=true)
+
 <br/><br/>
 
 ---
