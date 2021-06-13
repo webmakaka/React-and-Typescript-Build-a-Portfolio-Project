@@ -73,6 +73,10 @@ https://registry.npmjs.org/-/v1/search?text=react
 
 ### 029 Adding an Action Type Enum
 
+<br/>
+
+### 030 A Better Way to Organize Code
+
 <br/><br/>
 
 ---

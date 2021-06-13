@@ -1,32 +1,10 @@
+import { EActionType } from 'state/action-types';
+import { TAction } from 'state/actions';
+
 interface IRepositoryState {
   loading: boolean;
   error: string | null;
   data: string[];
-}
-
-interface ISearchRepositoriesAction {
-  type: EActionType.SEARCH_REPOSITIORIES;
-}
-
-interface ISearchRepositoriesSuccessAction {
-  type: EActionType.SEARCH_REPOSITORIES_SUCCESS;
-  payload: string[];
-}
-
-interface ISearchRepositoriesErrorAction {
-  type: EActionType.SEARCH_REPOSITORIES_ERROR;
-  payload: string;
-}
-
-type TAction =
-  | ISearchRepositoriesAction
-  | ISearchRepositoriesSuccessAction
-  | ISearchRepositoriesErrorAction;
-
-enum EActionType {
-  SEARCH_REPOSITIORIES = 'search_repositories',
-  SEARCH_REPOSITORIES_SUCCESS = 'search_repositories_success',
-  SEARCH_REPOSITORIES_ERROR = 'search_repositories_error',
 }
 
 const reducer = (
