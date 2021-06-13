@@ -125,6 +125,18 @@ https://registry.npmjs.org/-/v1/search?text=react
 
 ### 042 Creating a Typed Selector
 
+<br/>
+
+### 043 Consuming Store State
+
+<br/>
+
+![Application](/img/pic-m04-p08.png?raw=true)
+
+<br/>
+
+### 044 Quick Wrapup
+
 <br/><br/>
 
 ---

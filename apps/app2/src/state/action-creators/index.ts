@@ -1,7 +1,7 @@
 import axios from 'axios';
-import {Dispatch} from 'redux';
-import {EActionType} from 'state/action-types';
-import {TAction} from 'state/actions';
+import { Dispatch } from 'redux';
+import { EActionType } from 'state/action-types';
+import { TAction } from 'state/actions';
 
 export const searchRepositories = (term: string) => {
   return async (dispatch: Dispatch<TAction>) => {
@@ -17,7 +17,7 @@ export const searchRepositories = (term: string) => {
         }
       );
 
-      const names = data.objectes.map((result: any) => {
+      const names = data.objects.map((result: any) => {
         return result.package.name;
       });
       dispatch({
