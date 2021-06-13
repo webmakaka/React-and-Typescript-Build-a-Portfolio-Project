@@ -101,6 +101,14 @@ https://registry.npmjs.org/-/v1/search?text=react
 
 ### 036 Oops... Initial State!
 
+<br/>
+
+### 037 Reminder on Event Types
+
+<br/>
+
+### 038 Calling an Action Creator
+
 <br/><br/>
 
 ---
