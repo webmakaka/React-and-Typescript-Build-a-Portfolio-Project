@@ -113,6 +113,18 @@ https://registry.npmjs.org/-/v1/search?text=react
 
 ### 039 Binding Action Creators
 
+<br/>
+
+### 040 Selecting State
+
+<br/>
+
+### 041 Awkward Typings Around React-Redux
+
+<br/>
+
+### 042 Creating a Typed Selector
+
 <br/><br/>
 
 ---
