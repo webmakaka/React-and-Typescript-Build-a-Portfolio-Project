@@ -109,6 +109,10 @@ https://registry.npmjs.org/-/v1/search?text=react
 
 ### 038 Calling an Action Creator
 
+<br/>
+
+### 039 Binding Action Creators
+
 <br/><br/>
 
 ---
