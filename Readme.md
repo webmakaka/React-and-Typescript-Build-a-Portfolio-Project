@@ -4,6 +4,8 @@
 
 ### [Development App1](./Development-App1.md)
 
+### [Development App2 (Redux)](./Development-App2.md)
+
 <br/><br/>
 
 ---

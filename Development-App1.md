@@ -12,7 +12,7 @@
 
 <br/>
 
-![Application](/img/pic-part01-p01.png?raw=true)
+![Application](/img/pic-m01-p01.png?raw=true)
 
 <br/>
 
@@ -20,7 +20,7 @@
 
 <br/>
 
-![Application](/img/pic-part02-p01.png?raw=true)
+![Application](/img/pic-m02-p01.png?raw=true)
 
 <br/>
 
