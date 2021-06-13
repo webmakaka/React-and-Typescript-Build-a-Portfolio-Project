@@ -45,6 +45,34 @@ https://registry.npmjs.org/-/v1/search?text=react
 
 ### 024 Reducer Setup
 
+<br/>
+
+### 025 Annotating the Return Type
+
+<br/>
+
+### 026 Typing an Action
+
+<br/>
+
+### 027 Separate Interfaces for Actions
+
+<br/>
+
+![Application](/img/pic-m04-p06.png?raw=true)
+
+<br/>
+
+![Application](/img/pic-m04-p07.png?raw=true)
+
+<br/>
+
+### 028 Applying Action Interfaces
+
+<br/>
+
+### 029 Adding an Action Type Enum
+
 <br/><br/>
 
 ---
