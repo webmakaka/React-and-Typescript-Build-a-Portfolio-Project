@@ -89,6 +89,10 @@ https://registry.npmjs.org/-/v1/search?text=react
 
 ### 033 Applying Typings to Dispatch
 
+<br/>
+
+### 034 Setting Up Exports
+
 <br/><br/>
 
 ---
