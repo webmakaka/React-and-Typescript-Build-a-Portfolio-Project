@@ -77,6 +77,18 @@ https://registry.npmjs.org/-/v1/search?text=react
 
 ### 030 A Better Way to Organize Code
 
+<br/>
+
+### 031 Adding Action Creators
+
+<br/>
+
+### 032 Adding Request Logic
+
+<br/>
+
+### 033 Applying Typings to Dispatch
+
 <br/><br/>
 
 ---
