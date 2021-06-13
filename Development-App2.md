@@ -93,6 +93,14 @@ https://registry.npmjs.org/-/v1/search?text=react
 
 ### 034 Setting Up Exports
 
+<br/>
+
+### 035 Wiring Up to React
+
+<br/>
+
+### 036 Oops... Initial State!
+
 <br/><br/>
 
 ---
