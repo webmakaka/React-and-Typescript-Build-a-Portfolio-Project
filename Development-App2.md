@@ -41,6 +41,10 @@ https://registry.npmjs.org/-/v1/search?text=react
 
 ![Application](/img/pic-m04-p05.png?raw=true)
 
+<br/>
+
+### 024 Reducer Setup
+
 <br/><br/>
 
 ---
