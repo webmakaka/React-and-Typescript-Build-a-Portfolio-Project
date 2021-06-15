@@ -51,6 +51,15 @@ A CLI to launch an interactive development environment for writing + documenting
     $ cd apps
     $ npx create-react-app app3 --template typescript
 
+<br/>
+
+### 057 Project Setup
+
+<br/>
+
+    $ cd app3
+    $ yarn add esbuild-wasm
+
 <br/><br/>
 
 ---
