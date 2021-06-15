@@ -58,7 +58,36 @@ A CLI to launch an interactive development environment for writing + documenting
 <br/>
 
     $ cd app3
+    // With latest esbuild-wasm package, i received nothing
     $ yarn add esbuild-wasm
+
+<br/>
+
+### 058 Basic Form Elements
+
+<br/>
+
+### 059 Understanding ESBuild
+
+<br/>
+
+### 060 Initializing ESBuild
+
+<br/>
+
+### 061 Using Refs for Arbitrary Values
+
+<br/>
+
+### 062 Transpiling Works!
+
+```
+const App = () => <div>Hi there!</div>
+```
+
+<br/>
+
+![Application](/img/pic-m07-p01.png?raw=true)
 
 <br/><br/>
 
