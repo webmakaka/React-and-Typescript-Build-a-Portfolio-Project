@@ -59,7 +59,7 @@ A CLI to launch an interactive development environment for writing + documenting
 
     $ cd app3
     // With latest esbuild-wasm package, i received nothing
-    $ yarn add esbuild-wasm
+    $ yarn add esbuild-wasm@0.8.27
 
 <br/>
 
@@ -87,7 +87,35 @@ const App = () => <div>Hi there!</div>
 
 <br/>
 
-![Application](/img/pic-m07-p01.png?raw=true)
+![Application](/img/pic-m07-p02.png?raw=true)
+
+<br/>
+
+### 063 Troubles with Bundling in the Browser
+
+<br/>
+
+![Application](/img/pic-m07-p03.png?raw=true)
+
+<br/>
+
+### 064 Issues with NPM
+
+<br/>
+
+### 065 Solution with Unpkg
+
+<br/>
+
+### 066 Demo ESBuild Plugin (File)
+
+<br/>
+
+### 067 ESBuild Can Bundle!
+
+<br/>
+
+![Application](/img/pic-m07-p04.png?raw=true)
 
 <br/><br/>
 
